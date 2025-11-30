@@ -1,0 +1,27 @@
+## OPERATOR ARITMATIKA
+a = 10
+b = 15
+
+# PERTAMBAHAN
+a + b
+print('a + b :', a + b)
+
+# PENGURANGAN
+a - b
+print('a - b :', a - b)
+
+# PERKALIAN
+a * b
+print('a * b :', a * b)
+
+# PEMBAGIAN
+a / b
+print('a / b :', a / b)
+
+# AKAR PANGKAT
+a ** b
+print('a ** b :', a ** b)
+
+# MODULUS/SISA BAGI
+a % b
+print('a % b :', a % b)
